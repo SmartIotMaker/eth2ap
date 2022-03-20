@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/working/ESP32/Project/ESP-IDF/eth2ap/build/CMakeFiles/bootloader
+D:/working/ESP32/Project/ESP-IDF/eth2ap/build/CMakeFiles/bootloader.rule
+D:/working/ESP32/Project/ESP-IDF/eth2ap/build/CMakeFiles/bootloader-complete.rule
+D:/working/ESP32/Project/ESP-IDF/eth2ap/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/working/ESP32/Project/ESP-IDF/eth2ap/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/working/ESP32/Project/ESP-IDF/eth2ap/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/working/ESP32/Project/ESP-IDF/eth2ap/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/working/ESP32/Project/ESP-IDF/eth2ap/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/working/ESP32/Project/ESP-IDF/eth2ap/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/working/ESP32/Project/ESP-IDF/eth2ap/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
