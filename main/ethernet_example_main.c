@@ -23,6 +23,8 @@
 #include "driver/spi_master.h"
 #endif
 
+#include "cli_uart_events.h"
+
 static const char *TAG = "eth_example";
 static esp_eth_handle_t s_eth_handle = NULL;
 static xQueueHandle flow_control_queue = NULL;
@@ -379,6 +381,7 @@ void app_main(void)
     configure_led();
     ESP_ERROR_CHECK(esp_event_loop_create_default());
     ESP_ERROR_CHECK(initialize_flow_control());
+    cli_init();
     initialize_wifi();
     initialize_ethernet();
 }

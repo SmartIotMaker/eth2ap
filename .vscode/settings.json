@@ -2,7 +2,8 @@
   "C_Cpp.intelliSenseEngine": "Tag Parser",
   "files.associations": {
     "condition_variable": "c",
-    "future": "c"
+    "future": "c",
+    "freertos.h": "c"
   },
   "idf.portWin": "COM7",
   "idf.flashType": "UART",
